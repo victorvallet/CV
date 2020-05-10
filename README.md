@@ -1,55 +1,73 @@
-## Your Name
+## Victor Vallet
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Having just finished my MSc in Entrepreneurship, I have been running a web design agency in France for a year. As we totally shifted and needed a web application, I started to learn JavaScript and the Vue.js framework on my own as well as Firestore cloud by Google. I almost finished to develop the first beta version of our platform, but I really wanted to join Makers to become more confident, practice problem solving, and and strenghten my understanding and knwoledge of programming. 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Creative
+- Resilient
+- Curious
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2020 to August 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Westminster, London (September 2020 to May 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Entrepreneurship, Innovation and Enterprise Development
+- Results pending
+- Raised £1,482 for WaterAid UK charity as a group challenge for Entrepreneurial Mindset module
+
+#### EDHEC Business School, Lille (France) (September 2015 to May 2018)
+
+- Business Management
+- BSc Hons 2:1
+- Logistics Manager at the sustainable development society
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+**Coding qualifications**
+- CodeAcademy, Learning Ruby
+- Udemy: The Modern JavaScript Bootcamp; Build Web Apps with Vue JS 2 & Firebase; Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+
+**Extra qualifications**
+
+- London School of Economics, Summer School, Development Economics and International Development
+- SOAS University of London, Foundation Diploma for Postgraduate Studies (Development Studies and International Relations)
+- Cours Florent, Acting in English (Summer course)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**WebMyDay** (April 2019)    
+*Co-Founder & CTO*  
+- Advanced JS
+- Vue.js framework
+- State management (Vuex)
+- Routing (Vue router)
+- UI (Vuetify)
+- Firestore cloud and Google Storage
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Agence Ralph** (April 2019 to April 2020)    
+*Co-Founder*  
+- WordPress development
+- Basics of PHP
+- E-commerce
+- Responsive (breakpoints, media queries)
+
+**Level UP Software** (January 2019 to August 2019)   
+*Part-time software developer*  
+- Learned basics of HTML and CSS
+- WordPress development
+- WINDEV
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I used to play the piano, now struggling the find free time.
+Currently doing gym once a day, starting to enjoy it. 
+Feeding squirels (lockdown buddies).
+Manga lover (I will certainly find the One Piece at the end of the Makers course).
