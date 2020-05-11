@@ -1,6 +1,6 @@
 ## Victor Vallet
 
-Having just finished my MSc in Entrepreneurship, I have been running a web design agency in France for a year. As we totally shifted and needed a web application, I started to learn JavaScript and the Vue.js framework on my own as well as Firestore cloud by Google. I almost finished to develop the first beta version of our platform, but I really wanted to join Makers to become more confident, practice problem solving, and and strenghten my understanding and knwoledge of programming. 
+Having just finished my MSc in Entrepreneurship, I have been running a web design agency in France for a year. As we totally shifted and needed a web application, I started to learn JavaScript and the Vue.js framework on my own as well as Firestore cloud by Google. I almost finished to develop the first beta version of our platform, but I really wanted to join Makers to become more confident, practice problem solving, and strenghten my understanding and knwoledge of programming. 
 
 ## Skills
 
@@ -43,7 +43,7 @@ Having just finished my MSc in Entrepreneurship, I have been running a web desig
 
 ## Experience
 
-**WebMyDay** (April 2019)    
+**WebMyDay** (April 2020)    
 *Co-Founder & CTO*  
 - Advanced JS
 - Vue.js framework
