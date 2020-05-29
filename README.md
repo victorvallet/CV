@@ -67,7 +67,7 @@ Having just finished my MSc in Entrepreneurship, I have been running a web desig
 
 ## Hobbies
 
-I used to play the piano, now struggling the find free time.
-Currently doing gym once a day, starting to enjoy it. 
+I used to play the piano, now struggling to find free time.
+Currently doing gym once a day, starting to enjoy it. (Edit: actually quit for a while..)
 Feeding squirels (lockdown buddies).
 Manga lover (I will certainly find the One Piece at the end of the Makers course).
